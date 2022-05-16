@@ -1,0 +1,2 @@
+.App{text-align:center}.App__input{display:block;margin-bottom:10px}.App__button{display:block;margin-top:10px}.app__title,.field,.todoList{display:flex;justify-content:center}.todoList{flex-direction:row;flex-wrap:wrap;align-items:center;list-style:none;grid-gap:30px;gap:30px}.todoList__items{width:300px;text-decoration:none}.item-enter{opacity:0}.item-enter-active{opacity:1;transition:opacity .5s ease-in}
+/*# sourceMappingURL=main.215f1d66.chunk.css.map */
